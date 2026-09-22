@@ -5,6 +5,6 @@ Github account:
 https://github.com/raasseell
 
 Synching Screenshot:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd5882b4-a969-4d4d-9149-2ce12b538f4f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c63b887-6512-4dc5-a73c-b40163354cd4" />
 
 
